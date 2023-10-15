@@ -3,7 +3,7 @@ import { FcLike } from "react-icons/fc";
 import { AiFillStar } from "react-icons/ai";
 const TopSeller = () => {
   return (
-    <div className="my-12 mx-12">
+    <div className="my-20 mx-12">
       <div
         className="text-center space-y-3 my-16"
         data-aos="flip-left"

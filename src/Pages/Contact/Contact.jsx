@@ -1,9 +1,9 @@
 
 const Contact = () => {
     return (
-        <div>
-            This is contact us section
-        </div>
+      <div className="font-bold text-4xl text-center text-purple-800 my-12">
+        This is Contact page and The content of this page is coming!
+      </div>
     );
 };
 
