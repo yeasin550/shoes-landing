@@ -1,7 +1,7 @@
 const Testimonials = () => {
   return (
     <div className="my-20 md:flex items-center gap-10 w-11/12 mx-auto">
-      <div className="space-y-4 ml-16 w-1/2" data-aos="fade-left">
+      <div className="space-y-4 lg:ml-16 w-full lg:w-1/2" data-aos="fade-left">
         <h1 className="font-bold text-4xl">
           See What Our Clients <br /> Say’s About Us
         </h1>
@@ -16,7 +16,7 @@ const Testimonials = () => {
           See more......
         </button>
       </div>
-      <div className="lg:ml-5 w-1/2" data-aos="fade-up">
+      <div className="lg:ml-5 lg:w-1/2 w-full" data-aos="fade-up">
         <div className="carousel w-full h-72 rounded-md">
           <div
             id="slide1"
