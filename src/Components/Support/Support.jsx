@@ -3,7 +3,7 @@ import { BsFillPersonLinesFill } from "react-icons/bs";
 import { AiFillDollarCircle } from "react-icons/ai";
 const Support = () => {
     return (
-      <div className="my-12 w-10/12 mx-auto grid grid-cols-1 md:grid-cols-3 gap-4">
+      <div className="my-12 w-10/12 mx-auto grid grid-cols-1 md:grid-cols-3 gap-4" >
         <div
           className="bg-[#FCEDDA] py-7 px-5 rounded-md flex items-center gap-3"
           data-aos="fade-right"
