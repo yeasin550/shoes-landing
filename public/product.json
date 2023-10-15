@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    "title": "Leather Mens Slipper",
+    "price": 19.99,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1412&q=80",
+    "title": "Quickiin Mens Shoes",
+    "price": 29.99,
+    "rating": 4.0
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1450&q=80",
+    "title": "Primitive Mens Premium Shoes",
+    "price": 39.99,
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1528&q=80",
+    "title": "Primitive Mens Shoes",
+    "price": 49.99,
+    "rating": 3.5
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1575537302964-96cd47c06b1b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    "title": "Leather Mens Slipper",
+    "price": 59.99,
+    "rating": 4.2
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/flagged/photo-1556637640-2c80d3201be8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    "title": "Rexpo Womens Shoes",
+    "price": 69.99,
+    "rating": 4.9
+  }
+]
